@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(236, 243, 236);
+}
+header {
+    text-align: center;
+} 
+
+#image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+} 
+
+header a {
+    text-decoration: none;
+} 
+
+section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+li {
+    margin-top: 25px; 
+    font-weight: 500;
+}
+ 
+.education {
+    color: green;
+} 
+
+table {
+    width: 70%;
+} 
+
+thead {
+    border: 3px solid red;
+    border-radius: 4px;
+    background-color: grey;
+    color: white;
+} 
